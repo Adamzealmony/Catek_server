@@ -14,6 +14,7 @@ app.listen(3713, function () {
     console.log('Example app listening on port 3713!');
 });
 
+
 // // 利用express.static中间件来托管静态资源。
 // app.use(express.static(path.join(__dirname, 'public')));
 
